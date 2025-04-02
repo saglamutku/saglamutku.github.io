@@ -4,13 +4,13 @@ export const GLOBAL = {
   // Site metadata
   username: "Utku Saglam",
   rootUrl: "https://zaggonaut.dev",
-  shortDescription: "AI Compiler Engineer",
+  shortDescription: "AI Compilers",
   longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
   
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
-  twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/",
+  githubProfile: "https://github.com/saglamutku",
+  twitterProfile: "https://x.com/utkusaglm",
+  linkedinProfile: "https://www.linkedin.com/in/utkusaglam/",
   
   // Common text names used throughout the site
   articlesName: "Articles",
@@ -32,7 +32,7 @@ export const GLOBAL = {
   projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
 
   // Profile image
-  profileImage: "michael-dam-unsplash.webp",
+  profileImage: "rjX_7eb2_400x400.jpg",
 
   // Menu items
   menu: {
