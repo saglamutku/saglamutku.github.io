@@ -84,7 +84,7 @@ HTML offers six heading levels:
 
 ### Videos
 <video width="640" height="360" controls>
-  <source src="/images/first.mp4" type="video/mp4">
+  <source src="/public/first.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
